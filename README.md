@@ -1,5 +1,5 @@
 # FireWall
-These are windows batch script to add and delete firewall rules for a particular software in windows. it blocks the software from connecting to internet.
+These are windows batch scripts to add and delete firewall rules for a particular software in windows. it blocks and unblocks the software from connecting to internet.
 
 Block Internet
 
