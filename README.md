@@ -8,5 +8,5 @@ Step 2: Run AddWall.bat file as administrator to add firewall rules. it will blo
 
 Unblock Internet
 
-Step 1: Run DeleteWall.bat file as administrator to remove firewall rules for that software. 
+Step 1: Run DeleteWall.bat file as administrator to remove firewall rules for that software.
 Note  : DeleteWall.bat file removes firewall rules so run this file only when you want to connect to internet.
